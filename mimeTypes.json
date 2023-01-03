@@ -1,0 +1,8 @@
+{
+    ".html": "text/html",
+    ".css": "text/css",
+    ".png": "image/png",
+    ".jpg": "image/jpeg",
+    ".jpeg": "image/jpeg",
+    "favicon.ico": "image/x-icon"
+}
